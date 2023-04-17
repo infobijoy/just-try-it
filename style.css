@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.top {
+    height: 300px;
+    width: 100vw;
+    background: red; }
 .bottom {
     background-color: green;
     height: 300px;
